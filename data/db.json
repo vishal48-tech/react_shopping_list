@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Rice",
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Dal",
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "Wheat",
+      "checked": true
+    },
+    {
+      "id": "4",
+      "name": "Flour",
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "Milk",
+      "checked": false
+    }
+  ]
+}
